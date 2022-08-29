@@ -18,7 +18,7 @@ THEN I find a concise, descriptive title
 
 ### Screenshot
 
-![screenshot](/starter-code/Develop/assets/images/Challenge-one-screencap.png)
+![screenshot](/assets/images/Challenge-one-screencap.png)
 
 
 
