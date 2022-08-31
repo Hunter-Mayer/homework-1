@@ -24,7 +24,9 @@ THEN I find a concise, descriptive title
 
 ### Deployed Application Links
 
-Fill Here
+Github Repo: https://github.com/Hunter-Mayer/homework-1
+
+Github Page: https://hunter-mayer.github.io/homework-1/
 
 ## Credits
 
